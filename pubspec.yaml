@@ -1,0 +1,40 @@
+name: additive_industries
+description: An application for additive industries
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  flutter_svg: ^0.19.3
+
+  cupertino_icons: ^1.0.2
+
+  flutter_breadcrumb: ^1.0.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  fonts:
+    - family: FrankNew
+      fonts:
+        - asset: assets/fonts/FrankNew-Regular.otf
+        - asset: assets/fonts/FrankNew-Light.otf
+          weight: 300
+        - asset: assets/fonts/FrankNew-Bold.otf
+          weight: 700
+        - asset: assets/fonts/FrankNew-Medium.otf
+          weight: 500
+
+  uses-material-design: true
+  assets:
+    - assets/img/
+    - assets/fonts/
