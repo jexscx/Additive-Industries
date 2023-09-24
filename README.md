@@ -5,7 +5,7 @@
     <img src="https://www.additiveindustries.com/hubfs/AdditiveIndustries-July2019/Images/additive-logo.svg" alt="Logo" width="600" height="80">
   </a>
 
-  <h3 align="center">The Additive Inductries support application</h3>
+  <h3 align="center">The Additive Industries support application</h3>
 </p>
 
 <!-- TABLE OF CONTENTS -->
